@@ -2,7 +2,7 @@
 
 I did this just to 'practice' a little bit with webpack and all his fancy cool stuff that you can add in like a scss loader or trying some svg convertion.
 
-** Technologies on the project **
+**Technologies on the project**
 
 - React
 - Redux
